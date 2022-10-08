@@ -1,0 +1,20 @@
+{
+	"TargetIDs": [
+		"chassisdef_berserker_BRZ-A3",
+		"chassisdef_imp_IMP-4E",
+		"chassisdef_kingfisher-A",
+		"chassisdef_kingfisher-B",
+		"chassisdef_kingfisher-C",
+		"chassisdef_kingfisher-D",
+		"chassisdef_kingfisher-PRIME"
+	],
+	"Instructions": [
+		{
+		"JSONPath": "$",
+		"Action": "ObjectMerge",
+		"Value": {
+			"Heatsinks": 40
+			}
+		}
+	]
+}

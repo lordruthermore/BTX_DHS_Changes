@@ -1,0 +1,17 @@
+{
+	"TargetIDs": [
+		"chassisdef_awesome_AWS-9M",
+		"chassisdef_awesome_AWS-9Ma",
+		"chassisdef_kraken_bane-3",
+		"chassisdef_ostwar_OWR-2Mb"
+	],
+	"Instructions": [
+		{
+		"JSONPath": "$",
+		"Action": "ObjectMerge",
+		"Value": {
+			"Heatsinks": 48
+			}
+		}
+	]
+}

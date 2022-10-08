@@ -1,0 +1,16 @@
+{
+	"TargetIDs": [
+		"chassisdef_berserker_BRZ-B3",
+		"chassisdef_rakshasa_MDG-1A",
+		"chassisdef_rakshasa_MDG-1B"
+	],
+	"Instructions": [
+		{
+		"JSONPath": "$",
+		"Action": "ObjectMerge",
+		"Value": {
+			"Heatsinks": 45
+			}
+		}
+	]
+}
